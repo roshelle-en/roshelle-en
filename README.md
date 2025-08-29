@@ -23,7 +23,7 @@
 ---
 
 📫 **Reach me at**:  
-- [LinkedIn](www.linkedin.com/in/roshelle-perera-b61b0b352)  
+- [LinkedIn](https://www.linkedin.com/in/roshelle-perera-b61b0b352/)  
 - [Email](roshelle.enperera@gmail.com)
 
 ✨ *Blending AI intelligence, hardware innovation, and business insights!*  
