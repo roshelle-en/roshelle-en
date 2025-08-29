@@ -17,7 +17,7 @@
 
 ### 📊 GitHub Stats  
 
-![Roshelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoshellePerera&hide=stars,prs,issues,contribs&count_private=true&show_icons=true&theme=tokyonight)
+![Roshelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=roshelle-en&hide=stars,prs,issues,contribs&count_private=true&show_icons=true&theme=tokyonight)
 
 
 ---
