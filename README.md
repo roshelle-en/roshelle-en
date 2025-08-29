@@ -9,18 +9,22 @@
 
 ### 🛠️ Languages and Tools
 - C / C++ / Python  
-- Java (OOP, Generics)  
+- Java (OOP, Generics), JavaScript, SQL
 - MATLAB, GNU Radio, LTspice, Simulink, QuartusPrime  
 - Altium Designer, SolidWorks  
 
 ---
 
-### 📊 GitHub Stats
-![Roshelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoshellePerera&show_icons=true&theme=tokyonight)
+### 📊 GitHub Stats  
+
+![Roshelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoshellePerera&hide=stars,prs,issues,contribs&count_private=true&show_icons=true&theme=tokyonight)
+
 
 ---
 
 📫 **Reach me at**:  
-- [LinkedIn](https://www.linkedin.com/)  
-- [Email](mailto:your.email@example.com)  
+- [LinkedIn](www.linkedin.com/in/roshelle-perera-b61b0b352)  
+- [Email](roshelle.enperera@gmail.com)
+
+✨ *Blending AI intelligence, hardware innovation, and business insights!*  
 
